@@ -1,0 +1,161 @@
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>Ella's Super Kewl Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#choc-cake">Yummy Chocolate Cake</a></li>
+            <li><a href="#greek-salad">Greek Salad</a></li>
+            <li><a href="#french-toast">French Toast</a></li>
+        </ol>
+        
+        <h2 id="choc-cake">Yummy Chocolate Cake</h2>
+        
+        <ul>
+            <li>Time: 1 hour</li>
+            <li>Serves: 12</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr> <th>Ingredients</th>
+                <th>Quantity</th>
+            
+                </tr>
+               
+            </thead>
+            <tbody>
+            <tr>
+                <td>Cocoa Powder</td>
+                <td>3/4 cup</td>
+            </tr>
+             <tr>
+                <td>Milk</td>
+                <td>1 cup</td>
+                
+            </tr>
+            <tr>
+                <td>White Sugar</td>
+                <td>2 cups</td>
+            </tr>
+            <tr>
+                <td>Eggs</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>Vanilla Extract</td>
+                <td>2 teaspoons</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p>
+        <strong>Step 1:</strong> Preheat oven to 350 degrees F (175 degrees C). Grease and flour two nine inch round pans.
+       <br> <strong>Step 2:</strong> In a large bowl, stir together the sugar, flour, cocoa, baking powder, baking soda and salt. Add the eggs, milk, oil and vanilla, mix for 2 minutes on medium speed of mixer. Stir in the boiling water last. Batter will be thin. Pour evenly into the prepared pans.
+       <br><strong>Step 3:</strong> Bake 30 to 35 minutes in the preheated oven, until the cake tests done with a toothpick. Cool in the pans for 10 minutes, then remove to a wire rack to cool completely.
+</p>
+        
+    <p><em>Source: <a href="http://allrecipes.com/recipe/17981/one-bowl-chocolate-cake-iii/">Chocolate Cake Recipe</a></em>
+        
+        
+    </p>
+    <h2 id="greek-salad">Gr8 Greek Salad</h2>
+    <p>
+    <ul>
+            <li>Time: 20 minutes</li>
+            <li>Serves: 6</li>
+        </ul>
+    <table>
+        <thead>
+            <tr>
+                <th>Ingredients</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tr>
+            <td>Romaine Lettuce</td>
+            <td>1 head</td>
+        </tr>
+        <tr>
+            <td>Chopped Tomato</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Sliced Cucumber</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Pitted Olives</td>
+            <td>1, 6 ounce can</td>
+        </tr>
+        <tr>
+            <td>Olive Oil</td>
+            <td>6 tablespoons</td>
+        </tr>
+    </table>
+    
+    <p>
+        <strong>Step 1:</strong> In a large salad bowl, combine the Romaine, onion, olives, bell peppers, tomatoes, cucumber and cheese.
+       <br> <strong>Step 2:</strong> Whisk together the olive oil, oregano, lemon juice and black pepper. Pour dressing over salad, toss and serve.
+       
+</p>
+<p><em>Source: <a href="http://allrecipes.com/recipe/14373/greek-salad-i/">Greek Salad Recipe</a></em>
+</p>
+
+ <h2 id="french-toast">Fantastic French Toast (Vegan!!!)</h2>
+ <ul>
+            <li>Time: 15 minutes</li>
+            <li>Serves: 2-3</li>
+        </ul>
+<table>
+            <thead>
+                <tr> <th>Ingredients</th>
+                <th>Quantity</th>
+            
+                </tr>
+               
+            </thead>
+            <tbody>
+            <tr>
+                <td>Ciabatta Bread</td>
+                <td>6 slices</td>
+            </tr>
+             <tr>
+                <td>Almond Milk</td>
+                <td>1 cup</td>
+                
+            </tr>
+            <tr>
+                <td>Whole Wheat or Spelt Flour</td>
+                <td>2 tablespoons</td>
+            </tr>
+            <tr>
+                <td>Maple Syrup</td>
+                <td>1 tablespoon</td>
+            </tr>
+            <tr>
+                <td>Nutritional Yeast</td>
+                <td>1 tablespoon</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p>
+        <strong>Step 1:</strong> In a small bowl, whisk together the almond milk, maple syrup, flour, nutritional yeast, cinnamon, nutmeg and salt.
+       <br> <strong>Step 2:</strong> Place the bread in a shallow dish (with sides) that holds all of the bread. Pour the mixture over the bread, then lift or flip the bread over to make sure both sides are evenly coated.
+       <br><strong>Step 3:</strong> Heat a drizzle of coconut oil in a large skillet over medium heat. When the pan is hot, add the bread slices and cook for a few minutes per side, until golden brown.
+       <br><strong>Step 4:</strong> Serve with powdered sugar, a dab of vegan butter, maple syrup, and fresh fruit.
+</p>
+<p><em>Source: <a href="https://www.loveandlemons.com/vegan-french-toast/">French Toast Recipe</a></em>
+</p>
+</body>
+    
+</html>
